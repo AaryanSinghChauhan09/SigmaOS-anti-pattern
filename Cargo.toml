@@ -6,5 +6,5 @@ license = "Apache-2.0"
 description = "SigmaOS component - part of multi-repository architecture"
 
 [lib]
-name = "anti-pattern"
+name = "anti_pattern"
 path = "src/lib.rs"
